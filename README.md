@@ -1,5 +1,5 @@
 # Hackathon-Ting-Repo
-SpotFInder : The app to find parking spots around you
+SpotFinder : The app to find parking spots around you
 
 This project focuses on solving a longstanding issue : finding a parking spot.
 The app finds and highlights free parking spaces near you. \
